@@ -105,7 +105,9 @@ Add a submit button and Link Bootstrap JavaScript.
 
 ```
 ## OUTPUT:10(a):
-![Alt text](1.png)
+
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-10-BOOTSTRAP/assets/139841918/5ab3b720-454b-4ddd-bf33-41120f57988e)
+
 ## RESULT:
 This code creates a responsive feedback form for a virtual workshop on constructing modern websites built with Bootstrap.
 
@@ -214,7 +216,9 @@ Link the Bootstrap JavaScript file at the end of the body.
 </html>
 ```
 ## OUTPUT:10(b):
-![Alt text](2.png)
+
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-10-BOOTSTRAP/assets/139841918/52892e69-a0b5-4285-9edd-27d637982f9c)
+
 
 ## RESULT:
 This code creates a Responsive student registration form for ABC Engineering College built with Bootstrap.
@@ -264,6 +268,7 @@ Please provide a valid Password.
 <option>AIML</option>
 <option>AIDS</option>
 <option>IOT</option>
+<option>CYBER SECURITY</option>
 </select>
 <div class="invalid-feedback">
 Please select a valid Department.
@@ -303,7 +308,8 @@ You must agree to terms and conditions before submitting...
 ```
 ## OUTPUT:10(c):
 
-![Alt text](3.png)
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-10-BOOTSTRAP/assets/139841918/076bd423-87c2-48e0-80dc-90670eacf348)
+
 
 ## RESULT:
 
@@ -373,6 +379,8 @@ Add a script to handle the form validation on submit.
 
 ```
 ## OUTPUT: 10(d):
-![Alt text](4.png)
+
+![image](https://github.com/sreekarsh/ODD2023-WT-Ex-10-BOOTSTRAP/assets/139841918/6f87cbdc-0c1e-4e2a-b3e8-dbd996ddd89a)
+
 ## RESULT:
 This code creates a basic email login form in Bootstrap with validation function.
